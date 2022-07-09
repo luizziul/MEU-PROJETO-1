@@ -1,2 +1,2 @@
-# MEU-PROJETO-1
+#MEU.PROJETO.1
 Projeto tributo a Jesus Cristo

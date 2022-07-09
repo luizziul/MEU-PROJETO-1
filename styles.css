@@ -1,0 +1,73 @@
+html{
+
+	font-family: helvetica;
+	background-color: #66ccff;
+
+}
+.container{
+	max-width: 1200px;
+	position: relative;
+	margin left: auto;
+	margin-right: auto;
+	padding: 20px 50px;
+	margin: 50px;
+	background-color: #FFF;
+}
+.destaque{
+	font-weight: bold;
+}
+/* cabeçalho*/
+.cabecalho{
+text-align: center;
+
+}
+
+.titulo-principal{
+	font-size: 40px;
+}
+
+.paragrafo-principal{
+	font-style: italic;
+}
+.img-destaque{
+	text-align: center;
+	margin-top: 30px;
+
+}
+/*biografia container*/
+
+.Fontes-container{
+	padding: 25px 0;
+	margin: 25px 0;
+	border-top: 2px dashed #DDD;
+	border-bottom: 1px dashed #DDD;
+}
+
+.biografia-container{
+border-top: 2px dashed #DDD;
+}
+.Frase-container{
+	background-color: #ff6666;
+	padding: 30px;
+}
+.Frase-container blockquote{
+	font-weight: 600px;
+	font-size: 30px;
+}
+
+.Frase-container p{
+	font-style: italic;
+}
+/*curiosidades*/
+.curiosidade-container{
+	padding: 25px 0;
+	margin: 25px 0;
+	border-top: 2px dashed #DDD;
+	border-bottom: 1px dashed #DDD;
+}
+
+.curiosidade-container li{
+	height: 60px;
+	font-style: oblique;
+
+}
